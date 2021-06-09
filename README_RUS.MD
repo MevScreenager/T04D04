@@ -1,6 +1,6 @@
 # T04D04
 
-![day4_door](misc/rus/images/day4_door.png)
+![This day will help you familiarize yourself with basic control structures in the C language, as well as iterative and recursive algorithms.](misc/rus/images/day4_door.png)
 
 
 ## Contents
@@ -74,7 +74,7 @@
 
 \> *Читать листок бумаги*
 
-![day4_paper](misc/rus/images/day4_paper.png)
+![](misc/rus/images/day4_paper.png)
 
 ***LOADING...***
 
