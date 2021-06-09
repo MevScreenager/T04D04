@@ -1,7 +1,7 @@
 # T04D04
 The russian version of the task can be found in the repository.
 
-![day4_door](misc/eng/images/day4_door.png)
+![This day will help you familiarize yourself with basic control structures in the C language, as well as iterative and recursive algorithms.](misc/eng/images/day4_door.png)
 
 
 ## Contents
@@ -75,7 +75,7 @@ You are walking forward, nearly by touch. It's not the most comfortable walk. In
 
 \> *Read a sheet of paper*
 
-![day4_paper](misc/eng/images/day4_paper.png)
+![](misc/eng/images/day4_paper.png)
 
 ***LOADING...***
 
