@@ -20,7 +20,7 @@
 4. [Chapter IV](#chapter-iv)
 
 
-## Chapter I
+# Chapter I
 
 ## Level 1. Room 4.
 
@@ -79,7 +79,7 @@
 ***LOADING...***
 
 
-## Chapter II
+# Chapter II
 
 ## List 1.
 
@@ -131,7 +131,7 @@
 ***LOADING...***
 
 
-## Chapter III
+# Chapter III
 
 ## Quest 1.  Basic control structures. Tom Kilburn.
 
@@ -303,7 +303,7 @@
 ***LOADING...***
 
 
-## Chapter IV
+# Chapter IV
 
     ***Загрузка файлов... 
     Поиск уравнения двери... 

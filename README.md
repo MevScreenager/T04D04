@@ -21,7 +21,7 @@ The russian version of the task can be found in the repository.
 4. [Chapter IV](#chapter-iv)
 
 
-## Chapter I
+# Chapter I
 
 ## Level 1. Room 4.
 
@@ -80,7 +80,7 @@ You are walking forward, nearly by touch. It's not the most comfortable walk. In
 ***LOADING...***
 
 
-## Chapter II
+# Chapter II
 
 ## List 1.
 
@@ -132,7 +132,7 @@ It's a fragment of some weird table. It could have been used for some kind of en
 ***LOADING...***
 
 
-## Chapter III
+# Chapter III
 
 ## Quest 1.  Basic control structures. Tom Kilburn.
 
@@ -307,7 +307,7 @@ Answer in the terminal:
 ***LOADING...***
 
 
-## Chapter IV
+# Chapter IV
 
     ***Loading files... 
     Searching for the door equation... 
