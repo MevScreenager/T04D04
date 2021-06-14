@@ -21,7 +21,7 @@ The russian version of the task can be found in the repository.
 4. [Chapter IV](#chapter-iv)
 
 
-# Chapter I
+## Chapter I
 
 ## Level 1. Room 4.
 
@@ -80,7 +80,7 @@ You are walking forward, nearly by touch. It's not the most comfortable walk. In
 ***LOADING...***
 
 
-# Chapter II
+## Chapter II
 
 ## List 1.
 
@@ -132,7 +132,7 @@ It's a fragment of some weird table. It could have been used for some kind of en
 ***LOADING...***
 
 
-# Chapter III
+## Chapter III
 
 ## Quest 1.  Basic control structures. Tom Kilburn.
 
@@ -197,7 +197,7 @@ Result on the screen:
 It seems like the backup module has problems with output encoding. Most likely, it has input problems as well, so it won't understand you. The numbers remind you of a table from one of the sheets. Perhaps you should pay attention to it. \
 By the look of things, you need to develop a small auxiliary program that would operate in two modes – encoding and decoding. The choice of the program's mode should be made as a command-line parameter, where 0 stands for encoding and 1 – for decoding. When decoding, the program should take one 16-bit integer from stdin and output one decoded character to stdout. Encoding should involve a reverse operation. The program has to read numbers/symbols and run until it receives the quit command (0, or a character with code 0). The subtasks of encoding (symbol->number) and decoding (number->symbol) should be organized as separate functions. Do not forget to put the file with the program in the src/char_decode.c path in the repository.
 
-***== Quest 2 received. Create an src/char_decode.c program that takes operation mode (0–encoding or 1–decoding) as a command-line parameter. In the decoding mode, the program should take 2 symbols from stdin and output 1 decoded symbol to stdout. Encoding should involve a reverse operation. The program has to read symbols and run until it receives the quit command (zero symbols in the input stream). The subtasks of encoding and decoding should be organized as separate functions. Pay attention to the ASCII table. Note that there should be no whitespace characters after the output of the last result character ==***
+***== Quest 2 received. Create an src/char_decode.c program that takes operation mode (0–encoding or 1–decoding) as a command-line parameter. In the decoding mode, the program should take 2 symbols from stdin and output 1 decoded symbol to stdout. Encoding should involve a reverse operation. The program has to read symbols and run until it receives the quit command (zero symbols in the input stream). The subtasks of encoding and decoding should be organized as separate functions. Pay attention to the ASCII table. For errors, display "n/a". ==***
 
 ***LOADING...***
 
@@ -212,7 +212,7 @@ By the look of things, you need to develop a small auxiliary program that would 
 
 You decrypt a message. It looks like a rebus. Seems like you have to develop a small program to solve it. The program has to output the result of calculations to stdout. Do not forget to put it in src/quest3.c
 
-***== Quest 3 received. Create an src/quest3.c program that calculates and displays a number from the Fibonacci sequence (e.g. 21) using a recursive algorithm. The search of the specific Fibonacci number must be organized as a separate function. ==***
+***== Quest 3 received. Create an src/quest3.c program that calculates and displays a number from the Fibonacci sequence (e.g. 21) using a recursive algorithm. The search of the specific Fibonacci number must be organized as a separate function. For errors, display "n/a". ==***
 
 ***LOADING...***
 
@@ -307,7 +307,7 @@ Answer in the terminal:
 ***LOADING...***
 
 
-# Chapter IV
+## Chapter IV
 
     ***Loading files... 
     Searching for the door equation... 
