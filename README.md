@@ -212,7 +212,7 @@ By the look of things, you need to develop a small auxiliary program that would 
 
 You decrypt a message. It looks like a rebus. Seems like you have to develop a small program to solve it. The program has to output the result of calculations to stdout. Do not forget to put it in src/quest3.c
 
-***== Quest 3 received. Create an src/quest3.c program that calculates and displays a number from the Fibonacci sequence (e.g. 21) using a recursive algorithm. The search of the specific Fibonacci number must be organized as a separate function. For errors, display "n/a". ==***
+***== Quest 3 received. Create an src/quest3.c program that calculates and displays a number from the Fibonacci sequence (e.g. 21) using a recursive algorithm. The search of the specific Fibonacci number must be organized as a separate function. The number is entered via the standard input stream. For errors, display "n/a". ==***
 
 ***LOADING...***
 
