@@ -167,7 +167,7 @@ According to some of his colleagues, it was the first and the only program he ev
 
 You are back at your favorite terminal. Since you have no other clues, you might as well try and solve this task. Remember that all solutions must be uploaded to the repository, and the input must be checked for correctness.
 
-***== Quest 1 received. Create an src/1948.c program that finds the largest prime divisor of any predetermined integer `a`. Do not use division. For errors, display "n/a". ==***
+***== Quest 1 received. Create an src/1948.c program that finds the largest prime divisor of any predetermined integer `a`. Do not use division and the operation of taking the remainder of the division. For errors, display "n/a". ==***
 
 ***LOADING...***
 
