@@ -6,6 +6,7 @@ The russian version of the task can be found in the repository.
 
 ## Contents
 
+0. [Epigraph](#epigraph)
 1. [Chapter I](#chapter-i) \
     1.1. [Level 1. Room 4.](#level-1-room-4)
 2. [Chapter II](#chapter-ii) \
@@ -20,6 +21,24 @@ The russian version of the task can be found in the repository.
     3.5. [Quest 5*. Func.](#quest-5-func)
 4. [Chapter IV](#chapter-iv)
 
+
+## Epigraph
+***PRELOAD...***
+
+You enter the room and find yourself thinking that it is as if it has not been downloaded: objects and walls seem to be there, but they look like an iridescent grid of zeros and ones. There is a momentary fear of schizophrenia...
+
+\> *Does this happen to everyone who starts learning C?*
+
+***PRELOAD...***
+
+Suddenly, on the wall right in front of you, the zeros and ones begin to disappear, and clearly some kind of sheet is formed in a wooden frame. Sweat ran down my back, and sweat broke out on my forehead. The AI seems to have completely worked and cooling is no longer enough. But what you read will make you sweat for the rest of the time...
+
+> Starting from this day all your programs, in addition to correct output tests, will also be tested for style norms and
+> correct operation with memory and be checked by a static code analyzer. Before submitting solutions you can test
+> your programs locally. You can find some instructiontions here: ```materials/instructions_for_testing. md```
+
+Only after realizing what has happened, the zeros and ones return to the wall again, slowly absorbing the sheet of information..information
+that means more work for you. But high-quality code is cool! It is easier to read and maintain, so if someone else is in these rooms after you, they can easily modify your programs so that the AI likes them again. And its requirements will undoubtedly grow, it is developing..and you need it too!
 
 ## Chapter I
 
@@ -282,7 +301,7 @@ A surprisingly detailed answer:
     and put the result of your algorithm in src/data/door_data.txt. 
     For output into a file, you can use input redirection in the bash terminal.
 
-***== Quest 4 received. Create an src/door_functions.c program that calculates and displays a table with three functions: the witch of Agnesi with diameter one, the lemniscate of Bernoulli with a unit interval in the positive half-plane, and a quadratic hyperbola. The first column should list the values of the X-axis from minus Pi through plus Pi; the second, third, and fourth columns describe the values ​​of the functions at a point. Table headers are not needed. All values must be recorded with an accuracy of 7 decimal places. Column separator: "|". The table should have a total of 42 entries. Put the result of the program in src/data/door_data.txt (no need to add the function of creating a file from the program, you can use output redirection). If the function is not defined at any point, there must be the "-" symbol in the table. ==***
+***== Quest 4 received. Create an src/door_functions.c program that calculates and displays a table with three functions: the witch of Agnesi with diameter one, the lemniscate of Bernoulli with a unit interval in the positive half-plane, and a quadratic hyperbola. The first column should list the values of the X-axis from minus Pi through plus Pi, there should be 42 measurements at this interval; the second, third, and fourth columns describe the values ​​of the functions at a point. Table headers are not needed. All values must be recorded with an accuracy of 7 decimal places. Column separator: "|". The table should have a total of 42 entries. Put the result of the program in src/data/door_data.txt (no need to add the function of creating a file from the program, you can use output redirection). If the function is not defined at any point, there must be the "-" symbol in the table. ==***
 
 ***LOADING...***
 
