@@ -167,7 +167,7 @@ According to some of his colleagues, it was the first and the only program he ev
 
 You are back at your favorite terminal. Since you have no other clues, you might as well try and solve this task. Remember that all solutions must be uploaded to the repository, and the input must be checked for correctness.
 
-***== Quest 1 received. Create an src/1948.c program that finds the largest prime divisor of any predetermined integer `a`. Do not use division and the operation of taking the remainder of the division. For errors, display "n/a". ==***
+***== Quest 1 received. Create an src/1948.c program that finds the largest prime divisor of any predetermined integer `a` and prints it to the screen. It is necessary to allocate a separate function for calculating this value. Do not use division and the operation of taking the remainder of the division. For errors, display "n/a". ==***
 
 ***LOADING...***
 
@@ -214,9 +214,9 @@ Result on the screen:
 \> *What is this? Looks like some kind of code*
 
 It seems like the backup module has problems with output encoding. Most likely, it has input problems as well, so it won't understand you. The numbers remind you of a table from one of the sheets. Perhaps you should pay attention to it. \
-By the look of things, you need to develop a small auxiliary program that would operate in two modes – encoding and decoding. The choice of the program's mode should be made as a command-line parameter, where 0 stands for encoding and 1 – for decoding. When decoding, the program should take one 16-bit integer from stdin and output one decoded character to stdout. Encoding should involve a reverse operation. The program has to read numbers/symbols and run until it receives the quit command (0, or a character with code 0). The subtasks of encoding (symbol->number) and decoding (number->symbol) should be organized as separate functions. Do not forget to put the file with the program in the src/char_decode.c path in the repository.
+By the look of things, you need to develop a small auxiliary program that would operate in two modes – encoding and decoding. The choice of the program's mode should be made as a command-line parameter, where 0 stands for encoding and 1 – for decoding. When decoding, the program must take a string of space-separated hexadecimal integers from stdin and output space-separated decoded characters to stdout. Encoding should involve a reverse operation. The subtasks of encoding (symbol->number) and decoding (number->symbol) should be organized as separate functions. Do not forget to put the file with the program in the src/char_decode.c path in the repository.
 
-***== Quest 2 received. Create an src/char_decode.c program that takes operation mode (0–encoding or 1–decoding) as a command-line parameter. In the decoding mode, the program should take 2 symbols from stdin and output 1 decoded symbol to stdout. Encoding should involve a reverse operation. The program has to read symbols and run until it receives the quit command (zero symbols in the input stream). The subtasks of encoding and decoding should be organized as separate functions. Pay attention to the ASCII table. For errors, display "n/a". ==***
+***== Quest 2 received. Create an src/char_decode.c program that takes operation mode (0–encoding or 1–decoding) as a command-line parameter. If the decoding mode is selected, the program must accept two-character strings separated by a space from stdin and output decoded characters separated by a space to stdout. Encoding should involve a reverse operation. The subtasks of encoding and decoding should be organized as separate functions. Pay attention to the ASCII table. For errors, display "n/a". ==***
 
 ***LOADING...***
 
