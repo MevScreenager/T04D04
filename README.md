@@ -169,6 +169,11 @@ You are back at your favorite terminal. Since you have no other clues, you might
 
 ***== Quest 1 received. Create an src/1948.c program that finds the largest prime divisor of any predetermined integer `a` and prints it to the screen. It is necessary to allocate a separate function for calculating this value. Do not use division and the operation of taking the remainder of the division. For errors, display "n/a". ==***
 
+| Input | Output |
+| ------ | ------ |
+| 100 | 5 |
+| -4 | 2 |
+
 ***LOADING...***
 
 
@@ -218,8 +223,15 @@ By the look of things, you need to develop a small auxiliary program that would 
 
 ***== Quest 2 received. Create an src/char_decode.c program that takes operation mode (0–encoding or 1–decoding) as a command-line parameter. If the decoding mode is selected, the program must accept two-character strings separated by a space from stdin and output decoded characters separated by a space to stdout. Encoding should involve a reverse operation. The subtasks of encoding and decoding should be organized as separate functions. Pay attention to the ASCII table. For errors, display "n/a". ==***
 
+| Terminal arguments | Input | Output |
+| ------ | ------ | ------ |
+| 0 | W O R L D | 57 4F 52 4C 44 |
+| 1 | 48 45 4C 4C 4F | H E L L O |
+
 ***LOADING...***
 
+> DON'T FORGET! All your programs are tested for the style norm and memory leaks. Start-up instructions
+> the list of tests is also in the `materials` folder
 
 ## Quest 3. Recursive.
 
@@ -232,6 +244,10 @@ By the look of things, you need to develop a small auxiliary program that would 
 You decrypt a message. It looks like a rebus. Seems like you have to develop a small program to solve it. The program has to output the result of calculations to stdout. Do not forget to put it in src/quest3.c
 
 ***== Quest 3 received. Create an src/quest3.c program that calculates and displays a number from the Fibonacci sequence (e.g. 21) using a recursive algorithm. The search of the specific Fibonacci number must be organized as a separate function. The number is entered via the standard input stream. For errors, display "n/a". ==***
+
+| Input | Output |
+| ------ | ------ |
+| 21 | 10946 |
 
 ***LOADING...***
 
@@ -301,7 +317,14 @@ A surprisingly detailed answer:
     and put the result of your algorithm in src/data/door_data.txt. 
     For output into a file, you can use input redirection in the bash terminal.
 
-***== Quest 4 received. Create an src/door_functions.c program that calculates and displays a table with three functions: the witch of Agnesi with diameter one, the lemniscate of Bernoulli with a unit interval in the positive half-plane, and a quadratic hyperbola. The first column should list the values of the X-axis from minus Pi through plus Pi, there should be 42 measurements at this interval; the second, third, and fourth columns describe the values ​​of the functions at a point. Table headers are not needed. All values must be recorded with an accuracy of 7 decimal places. Column separator: "|". The table should have a total of 42 entries. Put the result of the program in src/data/door_data.txt (no need to add the function of creating a file from the program, you can use output redirection). If the function is not defined at any point, there must be the "-" symbol in the table. ==***
+***== Quest 4 received. Create an src/door_functions.c program that calculates and displays a table with three functions: the witch of Agnesi with diameter one, the lemniscate of Bernoulli with a unit interval in the positive half-plane (X > 0), and a quadratic hyperbola. The first column should list the values of the X-axis from minus Pi through plus Pi, there should be 42 measurements at this interval; the second, third, and fourth columns describe the values ​​of the functions at a point. Table headers are not needed. All values must be recorded with an accuracy of 7 decimal places. Column separator: "|". The table should have a total of 42 entries. Put the result of the program in src/data/door_data.txt (no need to add the function of creating a file from the program, you can use output redirection). If the function is not defined at any point, there must be the "-" symbol in the table. ==***
+
+Result:
+
+-3.1415927 | 0.0919997 | - | 0.1013212<br/>
+-2.9883442 | 0.1007029 | - | 0.1119796<br/>
+**************************/234DUFds7*SDf
+<br/>AI Error!<br/>
 
 ***LOADING...***
 
