@@ -2,7 +2,7 @@
 The russian version of the task can be found in the repository.
 
 ![day4_door](misc/eng/images/day4_door.png)
-
+  
 
 ## Contents
 
