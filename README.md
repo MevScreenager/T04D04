@@ -20,7 +20,7 @@ The russian version of the task can be found in the repository.
     3.4. [Quest 4. Table.](#quest-4-table)  
     3.5. [Quest 5*. Func.](#quest-5-func)
 4. [Chapter IV](#chapter-iv)
-
+     
 
 ## Epigraph
 ***PRELOAD...***
