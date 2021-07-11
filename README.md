@@ -1,6 +1,8 @@
 # T04D04
 The russian version of the task can be found in the repository.
 
+You can find some useful video materials [here](https://edu.21-school.ru/video/selection/a2cf3a4c-8002-4943-8600-227db350c48d).
+
 ![day4_door](misc/eng/images/day4_door.png)
   
 
@@ -40,7 +42,7 @@ Suddenly, on the wall right in front of you, the zeros and ones begin to disappe
 Only after realizing what has happened, the zeros and ones return to the wall again, slowly absorbing the sheet of information..information
 that means more work for you. But high-quality code is cool! It is easier to read and maintain, so if someone else is in these rooms after you, they can easily modify your programs so that the AI likes them again. And its requirements will undoubtedly grow, it is developing..and you need it too!
 
-## Chapter I
+# Chapter I
 
 ## Level 1. Room 4.
 
@@ -99,7 +101,7 @@ You are walking forward, nearly by touch. It's not the most comfortable walk. In
 ***LOADING...***
 
 
-## Chapter II
+# Chapter II
 
 ## List 1.
 
@@ -151,7 +153,7 @@ It's a fragment of some weird table. It could have been used for some kind of en
 ***LOADING...***
 
 
-## Chapter III
+# Chapter III
 
 ## Quest 1.  Basic control structures. Tom Kilburn.
 
@@ -349,7 +351,7 @@ Answer in the terminal:
 ***LOADING...***
 
 
-## Chapter IV
+# Chapter IV
 
     ***Loading files... 
     Searching for the door equation... 
