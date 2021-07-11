@@ -331,7 +331,7 @@ Result:
 ***LOADING...***
 
 
-## Quest 5*. Func.
+## Bonus Quest 5*. Func.
 
 \> *Type in "Files are ready"*
 

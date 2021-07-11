@@ -327,7 +327,7 @@
 ***LOADING...***
 
 
-## Quest 5*. Func.
+## Bonus Quest 5*. Func.
 
 \> *Ввести “Файлы готовы”*
 
