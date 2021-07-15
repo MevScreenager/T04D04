@@ -20,7 +20,7 @@ You can find some useful video materials [here](https://edu.21-school.ru/video/s
     3.2. [Quest 2. Basic control structures. Some problems with symbols.](#quest-2-basic-control-structures-some-problems-with-symbols)  
     3.3. [Quest 3. Recursive.](#quest-3-recursive)  
     3.4. [Quest 4. Table.](#quest-4-table)  
-    3.5. [Quest 5*. Func.](#quest-5-func)
+    3.5. [Quest 5*. Func.](#bonus-quest-5-func)
 4. [Chapter IV](#chapter-iv)
 
 
@@ -36,8 +36,8 @@ You enter the room and find yourself thinking that it is as if it has not been d
 Suddenly, on the wall right in front of you, the zeros and ones begin to disappear, and clearly some kind of sheet is formed in a wooden frame. Sweat ran down my back, and sweat broke out on my forehead. The AI seems to have completely worked and cooling is no longer enough. But what you read will make you sweat for the rest of the time...
 
 > Starting from this day all your programs, in addition to correct output tests, will also be tested for style norms and
-> correct operation with memory and be checked by a static code analyzer. Before submitting solutions you can test
-> your programs locally. You can find some instructiontions here: ```materials/instructions_for_testing. md```
+> correct operation with memory. Before submitting solutions you can test
+> your programs locally. You can find some instructiontions here: ```materials/instructions_for_testing.md```
 
 Only after realizing what has happened, the zeros and ones return to the wall again, slowly absorbing the sheet of information..information
 that means more work for you. But high-quality code is cool! It is easier to read and maintain, so if someone else is in these rooms after you, they can easily modify your programs so that the AI likes them again. And its requirements will undoubtedly grow, it is developing..and you need it too!
