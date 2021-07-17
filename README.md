@@ -228,7 +228,9 @@ By the look of things, you need to develop a small auxiliary program that would 
 | Terminal arguments | Input | Output |
 | ------ | ------ | ------ |
 | 0 | W O R L D | 57 4F 52 4C 44 |
+| 0 | WORLD | n/a |
 | 1 | 48 45 4C 4C 4F | H E L L O |
+| 1 | 48454C4C4F | n/a |
 
 ***LOADING...***
 
