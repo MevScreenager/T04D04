@@ -223,7 +223,13 @@ Result on the screen:
 It seems like the backup module has problems with output encoding. Most likely, it has input problems as well, so it won't understand you. The numbers remind you of a table from one of the sheets. Perhaps you should pay attention to it. \
 By the look of things, you need to develop a small auxiliary program that would operate in two modes – encoding and decoding. The choice of the program's mode should be made as a command-line parameter, where 0 stands for encoding and 1 – for decoding. When decoding, the program must take a string of space-separated hexadecimal integers from stdin and output space-separated decoded characters to stdout. Encoding should involve a reverse operation. The subtasks of encoding (symbol->number) and decoding (number->symbol) should be organized as separate functions. Do not forget to put the file with the program in the src/char_decode.c path in the repository.
 
-***== Quest 2 received. Create an src/char_decode.c program that takes operation mode (0–encoding or 1–decoding) as a command-line parameter. If the decoding mode is selected, the program must accept two-character strings separated by a space from stdin and output decoded characters separated by a space to stdout. Encoding should involve a reverse operation. The subtasks of encoding and decoding should be organized as separate functions. Pay attention to the ASCII table. For errors, display "n/a". ==***
+***== Quest 2 received. Create an src/char_decode.c program that takes operation mode 
+(0–encoding or 1–decoding) as a command-line parameter. If the decoding mode is selected, 
+the program must accept two-character strings separated by a space from stdin and output 
+decoded characters separated by a space to stdout. Encoding should involve a reverse 
+operation. The subtasks of encoding and decoding should be organized as separate functions. 
+Pay attention to the ASCII table. For errors, display "n/a". 
+A line break character is a sign of the end of the input. ==***
 
 | Terminal arguments | Input | Output |
 | ------ | ------ | ------ |
