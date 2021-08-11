@@ -8,7 +8,7 @@ You can find some useful video materials [here](https://edu.21-school.ru/video/s
 
 ## Contents
 
-0. [Epigraph](#epigraph)
+0. [Preamble](#preamble)
 1. [Chapter I](#chapter-i) \
     1.1. [Level 1. Room 4.](#level-1-room-4)
 2. [Chapter II](#chapter-ii) \
@@ -24,7 +24,7 @@ You can find some useful video materials [here](https://edu.21-school.ru/video/s
 4. [Chapter IV](#chapter-iv)
 
 
-## Epigraph
+## Preamble
 ***PRELOAD...***
 
 You enter the room and find yourself thinking that it is as if it has not been downloaded: objects and walls seem to be there, but they look like an iridescent grid of zeros and ones. There is a momentary fear of schizophrenia...
@@ -127,7 +127,13 @@ You take another sheet of paper...
 > - Principle 6. All the listed constructions must have one entrance and one exit.
 > - Principle 7. The program is developed step by step, using the top-down method.
 
-\> * It seems like a random sheet in the bundle.. Or not? Actually, it looks very useful. Take another sheet of paper*
+On the back you see the handwritten text.
+
+> The use of global variables is strictly not recommended, because they lead 
+> to an increase in the number of implicit relationships, which in turn have a bad effect on 
+> scalability and readability, and also lead to difficult perceptible errors.
+
+\> *It seems like a random sheet in the bundle.. Or not? Actually, it looks very useful. Take another sheet of paper*
 
 You take another sheet of paper...
 
@@ -154,7 +160,7 @@ It's a fragment of some weird table. It could have been used for some kind of en
 
 
 # Chapter III
-
+>**Attention!** In the quests of this day, it is forbidden to use arrays and dynamic memory. Allowed libraries: `<stdio.h>`, `<math.h>`
 ## Quest 1.  Basic control structures. Tom Kilburn.
 
 \> *Read the piece of paper*
