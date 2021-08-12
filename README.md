@@ -160,7 +160,7 @@ It's a fragment of some weird table. It could have been used for some kind of en
 
 
 # Chapter III
->**Attention!** In the quests of this day, it is forbidden to use arrays and dynamic memory. Allowed libraries: `<stdio.h>`, `<math.h>`
+>**Attention!** In the quests of this day, it is forbidden to create arrays and use dynamic memory. Allowed libraries: `<stdio. h>`, `<math. h>`
 ## Quest 1.  Basic control structures. Tom Kilburn.
 
 \> *Read the piece of paper*
