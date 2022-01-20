@@ -170,12 +170,14 @@ The first program that was fully stored in computer memory was developed by Tom 
 According to some of his colleagues, it was the first and the only program he ever wrote. The Baby was supposed to find the largest prime divisor of any predetermined number a. To do so, the machine was enumerating all numbers. The actual division was implemented by subtraction since the hardware did not support the operation of division. By the way, some models of microcontrollers don't have it to this day.
 >
 >First task: try to follow Tom Kilburn's route. You can use basic control structures–sequence, branch, loop, as well as addition, subtraction, and multiplication. You cannot use division: this module is designed to run on microcontrollers. Create an src/1948.c file which takes a number into stdin after compilation and launch, and calculates its largest prime divisor. Let's see how well you can do.
+>
+>Note that the largest prime divisor of a number is also its largest prime multiplier.
 
 \> *Go back to the terminal*
 
 You are back at your favorite terminal. Since you have no other clues, you might as well try and solve this task. Remember that all solutions must be uploaded to the repository, and the input must be checked for correctness.
 
-***== Quest 1 received. Create an src/1948.c program that finds the largest prime divisor of any predetermined integer `a` and prints it to the screen. It is necessary to allocate a separate function for calculating this value. Do not use division and the operation of taking the remainder of the division. For errors, display "n/a". ==***
+***== Quest 1 received. Create an src/1948.c program that finds the largest prime divisor of any predetermined integer `a` and prints it to the screen. It is necessary to allocate a separate function for calculating this value. Do not use division and the operation of taking the remainder of the division. However, if necessary, division can be realised by subtraction. For errors, display "n/a". ==***
 
 | Input | Output |
 | ------ | ------ |
@@ -332,6 +334,16 @@ A surprisingly detailed answer:
     Prepare the algorithm as an src/door_functions.c file, 
     and put the result of your algorithm in src/data/door_data.txt. 
     For output into a file, you can use input redirection in the bash terminal.
+    You can find the formulas below.
+
+The witch of Agnesi with diameter one: \
+![The witch of Agnesi](misc/images/va.png) 
+
+The lemniscate of Bernoulli with a unit interval in the positive half-plane: \
+![The lemniscate of Bernoulli](misc/images/lb.png)
+
+Quadratic hyperbola: \
+![Quadratic hyperbola](misc/images/g.png) 
 
 ***== Quest 4 received. Create an src/door_functions.c program that calculates and displays a table with three functions: the witch of Agnesi with diameter one, the lemniscate of Bernoulli with a unit interval in the positive half-plane (Y > 0), and a quadratic hyperbola. The first column should list the values of the X-axis from minus Pi through plus Pi, there should be 42 measurements at this interval; the second, third, and fourth columns describe the values ​​of the functions at a point. Table headers are not needed. All values must be recorded with an accuracy of 7 decimal places, it is necessary to use the double type for increased accuracy. Column separator: "|". The table should have a total of 42 entries. Put the result of the program in src/data/door_data.txt (no need to add the function of creating a file from the program, you can use output redirection). If the function is not defined at any point, there must be the "-" symbol in the table. ==***
 
