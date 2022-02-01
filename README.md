@@ -35,8 +35,7 @@ You enter the room and find yourself thinking that it is as if it has not been d
 
 Suddenly, on the wall right in front of you, the zeros and ones begin to disappear, and clearly some kind of sheet is formed in a wooden frame. Sweat ran down my back, and sweat broke out on my forehead. The AI seems to have completely worked and cooling is no longer enough. But what you read will make you sweat for the rest of the time...
 
-> Starting from this day all your programs, in addition to correct output tests, will also be tested for style norms and
-> correct operation with memory. Before submitting solutions you can test
+> Starting from this day all your programs, in addition to correct output tests, will also be tested for style norms. Before submitting solutions you can test
 > your programs locally. You can find some instructiontions here: ```materials/instructions_for_testing.md```
 
 Only after realizing what has happened, the zeros and ones return to the wall again, slowly absorbing the sheet of information..information
@@ -248,7 +247,7 @@ A line break character is a sign of the end of the input. ==***
 
 ***LOADING...***
 
-> DON'T FORGET! All your programs are tested for the style norm and memory leaks. Start-up instructions
+> DON'T FORGET! All your programs are tested for the style norm. Start-up instructions
 > the list of tests is also in the `materials` folder
 
 ## Quest 3. Recursive.
